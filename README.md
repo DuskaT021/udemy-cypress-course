@@ -1,3 +1,5 @@
+# Forked this project and added a cypress testing library
+
 # Cypress automation for people in a hurry
 Repository for a course hosted on [Udemy on the topic of test automation in Cypress](https://www.udemy.com/course/cypress-test-automation-for-people-in-a-hurry/?referralCode=21A875FF429457CF641D). The name of the course is a homage to [Neil DeGrasse Tyson’s book](https://www.amazon.com/Astrophysics-People-Hurry/dp/B06XB2PX7G) which I recommend you give a read.
 
